@@ -2,7 +2,7 @@
 script to get the fans mode in asus laptops
 
 
-##how to use
+## how to use
 
 ```bash
 ┌──(test㉿test)-[~]
